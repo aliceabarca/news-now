@@ -3,9 +3,7 @@ import './AllNews.css'
 
 function AllNews({ news }) {
 
-  // console.log('map', news)
   const articles = news.map(news => {
-    
     return (
      <News 
       source={news.source.id}

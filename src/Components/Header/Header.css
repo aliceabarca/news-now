@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+}
+
+.newspaper-img {
+  width: 8rem;
+  height: 8rem;
+}
+
+.news-now-title {
+  font-size: 4rem;
+}
+
+.img-section {
+  padding-top: 1.8rem;
+}

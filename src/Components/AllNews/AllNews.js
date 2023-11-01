@@ -1,5 +1,5 @@
 import News from "../News/News";
-
+import './AllNews.css'
 
 function AllNews({ news }) {
 

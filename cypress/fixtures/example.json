@@ -1,0 +1,43 @@
+{
+  "articles": [
+  {
+  "source": {
+  "id": "engadget",
+  "name": "Engadget"
+  },
+  "author": "Mat Smith",
+  "title": "The Morning After: Samsung pays tribute to its flip phone past with limited-edition foldable",
+  "description": "Samsung has unveiled the Galaxy Z Flip 5 Retro, a limited-edition foldable that pays homage to the SGH-E700 (AKA the SGH-E715 in the US), which came out 20 years ago in 2003. It has the same indigo blue and silver color combo as the original and a few special…",
+  "url": "https://www.engadget.com/the-morning-after-samsung-pays-tribute-to-its-flip-phone-past-with-limited-edition-foldable-111618806.html",
+  "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-10/0e8c82b0-7707-11ee-a1fe-03f3dabce5fa",
+  "publishedAt": "2023-10-30T11:16:18Z",
+  "content": "Samsung has unveiled the Galaxy Z Flip 5 Retro, a limited-edition foldable that pays homage to the SGH-E700 (AKA the SGH-E715 in the US), which came out 20 years ago in 2003. It has the same indigo b… [+3391 chars]"
+  },
+  {
+  "source": {
+  "id": "wired",
+  "name": "Wired"
+  },
+  "author": "Nena Farrell",
+  "title": "Tivoli Pal BT Review: A Colorful Radio",
+  "description": "This radio is an expensive pop of fun for any tabletop, shelf, or even outdoor adventure.",
+  "url": "https://www.wired.com/review/tivoli-audio-pal-bt/",
+  "urlToImage": "https://media.wired.com/photos/653bcdef61cc804f7af6be99/191:100/w_1280,c_limit/Tivoli-Pal-BT-Radio-Featured-Gear.jpg",
+  "publishedAt": "2023-10-30T13:00:00Z",
+  "content": "I don't even like pink, but here I am with pink lights on my desk and PC lights to match. Can I blame Barbie for this? No. For that, I can point to the little radio on my desk: the Tivoli Pal BT.\r\nI'… [+2556 chars]"
+  },
+  {
+  "source": {
+  "id": "the-verge",
+  "name": "The Verge"
+  },
+  "author": "Jennifer Pattison Tuohy",
+  "title": "How to connect a Nest Thermostat to Apple Home through Matter",
+  "description": "The Nest Thermostat now works with Apple Home thanks to Matter. Follow this guide to set up and control Google’s smart thermostat in the Apple Home app.",
+  "url": "https://www.theverge.com/23935276/nest-thermostat-apple-home-matter-how-to",
+  "urlToImage": "https://cdn.vox-cdn.com/thumbor/qeoO5nxubxA9c3Zm9qT8glcrsd4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24430141/Matter_How_to_HT043_03.jpg",
+  "publishedAt": "2023-10-30T15:30:39Z",
+  "content": "How to connect a Nest Thermostat to Apple Home through Matter\r\nHow to connect a Nest Thermostat to Apple Home through Matter\r\n / Googles smart thermostat can finally work directly with Apple Home usi… [+3999 chars]"
+  }
+ ]
+}  
